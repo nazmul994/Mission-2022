@@ -78,7 +78,7 @@
         width: 50%;
     }
     
-    #heading-2 {
+    #heading-3 {
         font-size: 40px;
     }
     
@@ -96,4 +96,18 @@
     .project-img {
         width: 50%;
         margin-right: 75px;
+    }
+    
+    .app-img {
+        width: 50%;
+        margin-left: 150px;
+        background-image: url(images/shapes/shape-3.png);
+        background-position: left;
+        background-repeat: no-repeat;
+    }
+    
+    .ellen-text {
+        padding-top: 100px;
+        margin-left: 150px;
+        margin-right: 85px;
     }
