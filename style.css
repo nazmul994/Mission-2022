@@ -1,5 +1,6 @@
     body {
         font-family: 'Poppins', sans-serif;
+        margin: 0;
     }
     
     h1 {
@@ -12,7 +13,7 @@
     }
     
     .orange {
-        color: orange;
+        color: tomato;
     }
     
     .flexible-container {
@@ -101,7 +102,7 @@
     .app-img {
         width: 50%;
         margin-left: 150px;
-        background-image: url(images/shapes/shape-3.png);
+        background-image: url(images/shapes/shape-1.png);
         background-position: left;
         background-repeat: no-repeat;
     }
@@ -110,4 +111,15 @@
         padding-top: 100px;
         margin-left: 150px;
         margin-right: 85px;
+    }
+    
+    .footer {
+        text-align: center;
+        background-color: black;
+        color: white;
+        padding: 10px;
+    }
+    
+    #footer-text {
+        color: grey;
     }
